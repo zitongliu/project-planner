@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": "2",
+      "title": "Make marketing email",
+      "details": "Lorem ipsum 123123",
+      "complete": true
+    },
+    {
+      "id": "3fc2",
+      "title": "Create an app",
+      "details": "Create an app",
+      "complete": true
+    },
+    {
+      "id": "e736",
+      "title": "Learn Vue 3",
+      "details": "Learn Vue 3",
+      "complete": false
+    }
+  ]
+}
